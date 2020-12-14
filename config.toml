@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-publishDir = "https://github.com/matt-tum/alumni-network"
+baseURL = "https://00000000014A6343.pages.gitlab.lrz.de/alumni-network"
 title = "STS-Munich.de"
 theme = "twenty-twenty-hugo"
 languageName = "En"
