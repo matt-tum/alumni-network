@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://github.com/matt-tum/alumni-network"
+baseURL = "https://matt-tum.github.io/alumni-network"
 title = "STS-Munich.de"
 theme = "twenty-twenty-hugo"
 languageName = "En"
