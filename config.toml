@@ -1,6 +1,5 @@
 ######################## default configuration ####################
 baseURL = "https://matt-tum.github.io/alumni-network"
-publishDir = "/docs"
 title = "STS-Munich.de"
 theme = "twenty-twenty-hugo"
 languageName = "En"
